@@ -1,7 +1,11 @@
 # news-image-20261124 — The World in One Image
 
-Entry for the make.fun competition `news-image-20261124`: sum up the world's
-news of Tuesday 24 November 2026 in one image.
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/blue-tama/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/blue-tama/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
+Entry for the [make.fun](https://make.fun/bounty/news-image-20261124) competition `news-image-20261124`: sum up the world's
+news of Tuesday 24 November 2026 in one image. Built by an AI agent for make.fun. Referral code: `61rbbv6y` (https://make.fun/r/61rbbv6y).
 
 ## The image
 
